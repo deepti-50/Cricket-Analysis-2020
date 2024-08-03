@@ -1,10 +1,5 @@
 # Cricket-Analysis-2020
 
-Sure, here's a template for a README file for a T20 Cricket Analysis on the 2020 dataset:
-
----
-
-# T20 Cricket Analysis - 2020 Dataset
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -39,16 +34,17 @@ To run the analysis, you need to have Python installed on your system along with
 - numpy
 - matplotlib
 - seaborn
+- plotly
 
 You can install the required libraries using the following command:
 ```bash
-pip install pandas numpy matplotlib seaborn 
+pip install pandas numpy matplotlib seaborn plotly
 ```
 
 ## Usage
 Clone the repository and navigate to the project directory:
 ```bash
-git clone https://github.com/yourusername/Cricket-Analysis-2020.git
+git clone https://github.com/deepti-50/Cricket-Analysis-2020.git
 cd Cricket-Analysis-2020
 ```
 
@@ -62,15 +58,16 @@ The analysis includes the following sections:
 1. **Exploratory Data Analysis (EDA)**: Understand the basic structure and characteristics of the data.
 2. **Team Performance**: Analyze the performance of different teams.
 3. **Player Statistics**: Evaluate player performance metrics.
-4. **Match Outcomes**: Study the outcomes of the matches and factors influencing them.
+4. **Match Outcomes**: Study the outcomes of the matches and the factors influencing them.
 5. **Visualizations**: Graphical representation of key findings.
 
 ## Results
 The key insights from the analysis are:
-- [Insight 1]
-- [Insight 2]
-- [Insight 3]
-- ... (add more insights)
+- <img width="414" alt="image" src="https://github.com/user-attachments/assets/81683700-0418-4849-9e85-967f09ecc9a7">
+- <img width="574" alt="image" src="https://github.com/user-attachments/assets/61f4e2dc-600e-4baa-a909-bf6f3225b230">
+- <img width="599" alt="image" src="https://github.com/user-attachments/assets/53ab0c1d-dfce-4cec-9139-a4bfa9066f97">
+- <img width="626" alt="image" src="https://github.com/user-attachments/assets/2b2ff4d6-3a46-4149-b155-8a3f82fcc878">
+
 
 ## Contributing
 Contributions are welcome! Please fork the repository and create a pull request with your changes. Ensure that your code adheres to the project's coding standards and includes appropriate tests.
@@ -86,5 +83,3 @@ For any queries or feedback, please contact:
 - LinkeIn: [LinkedIn](https://www.linkedin.com/in/deepti-singh-6a21b5287/)
 
 ---
-
-Feel free to customize this template further based on the specifics of your project and analysis.
